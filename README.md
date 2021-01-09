@@ -1,6 +1,6 @@
-View Live at https://ydahal1.github.io/country-dashboard/
+View Live at https://ydahal1.github.io/countries-dashboard/
 
-This app make API calls to two end points
+This app make API calls to two end points -
 
 1. REST countries - to get countries information
 2. Open weather API to get weather for selected country
