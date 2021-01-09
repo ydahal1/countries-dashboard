@@ -1,0 +1,63 @@
+.App {
+  margin-top: 50px;
+}
+container {
+  color: white;
+}
+.sideBar1 {
+  background: gray;
+}
+
+.mainArea {
+  background: pink;
+}
+
+.countryDetails {
+  color: black !important;
+  margin-top: 20px;
+}
+
+.otherApps {
+  background: green;
+}
+
+.app2 {
+  margin-top: 30px;
+}
+
+.app3 {
+  background: red;
+}
+
+.searchAra {
+  background: gray;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.flagAra {
+  padding-top: 20px !important;
+}
+.countryTitle {
+  text-align: center !important;
+  color: white;
+  background: black;
+  padding-top: 10px;
+}
+
+.lists {
+  font-weight: 700 !important;
+}
+
+.weatherRow {
+  text-align: center !important;
+  color: white;
+  background: black;
+  margin-top: 50px;
+}
+
+.graphDesc {
+  text-align: center;
+  margin-top: 10px;
+}
