@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countries-dashboard/static/css/main.b6c870c5.chunk.css",
+    "main.js": "/countries-dashboard/static/js/main.257f58e1.chunk.js",
+    "main.js.map": "/countries-dashboard/static/js/main.257f58e1.chunk.js.map",
+    "runtime-main.js": "/countries-dashboard/static/js/runtime-main.51266579.js",
+    "runtime-main.js.map": "/countries-dashboard/static/js/runtime-main.51266579.js.map",
+    "static/css/2.95f25948.chunk.css": "/countries-dashboard/static/css/2.95f25948.chunk.css",
+    "static/js/2.470707b2.chunk.js": "/countries-dashboard/static/js/2.470707b2.chunk.js",
+    "static/js/2.470707b2.chunk.js.map": "/countries-dashboard/static/js/2.470707b2.chunk.js.map",
+    "index.html": "/countries-dashboard/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/countries-dashboard/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.b6c870c5.chunk.css.map": "/countries-dashboard/static/css/main.b6c870c5.chunk.css.map",
+    "static/js/2.470707b2.chunk.js.LICENSE.txt": "/countries-dashboard/static/js/2.470707b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51266579.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.470707b2.chunk.js",
+    "static/css/main.b6c870c5.chunk.css",
+    "static/js/main.257f58e1.chunk.js"
+  ]
+}
